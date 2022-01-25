@@ -1,0 +1,6 @@
+bin
+obj
+*.designer.cs
+*.Designer.cs
+*.vs
+*.csproj.user
